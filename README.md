@@ -1,3 +1,3 @@
 # DockerizeJenkins
 
-Revision 1.0.0
+Revision 1.0.1
